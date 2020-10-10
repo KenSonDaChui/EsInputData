@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.elasticsearch.bboss.elasticsearch.rest.hostNames",
+      "type": "java.lang.String",
+      "description": "Description for spring.elasticsearch.bboss.elasticsearch.rest.hostNames."
+  }
+] }
